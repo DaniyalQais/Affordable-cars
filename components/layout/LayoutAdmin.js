@@ -2,9 +2,6 @@
 'use client'
 import { useState } from "react"
 import BackToTop from '../elements/BackToTop'
-import ModalToggle from "../elements/ModalToggle"
-import ModalToggle2 from "../elements/ModalToggle2"
-import ModalToggle3 from "../elements/ModalToggle3"
 import Sidebar from "./Sidebar"
 import Header2 from './header/Header2'
 export default function LayoutAdmin({ headerStyle, footerStyle, headTitle, breadcrumbTitle, children }) {
@@ -44,9 +41,6 @@ export default function LayoutAdmin({ headerStyle, footerStyle, headTitle, bread
                 </div>
             </div>
             <BackToTop />
-            <ModalToggle handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
-            <ModalToggle2 handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
-            <ModalToggle3 handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
         </>
     )
 }

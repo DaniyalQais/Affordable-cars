@@ -14,8 +14,8 @@ export default function SellingCar() {
                 <div className="themesflat-container">
                     <div className="selling-car-wrap">
                         <div className="heading-section t-al-center mb-60">
-                            <span className="sub-title mb-6 wow fadeInUp">Find your car by car brand</span>
-                            <h2 className="title wow fadeInUp">Best selling Cars</h2>
+                            <span className="sub-title mb-6 wow fadeInUp">Featured vehicle spotlight</span>
+                            <h2 className="title wow fadeInUp">Popular Cars Ready Today</h2>
                         </div>
                         <div className="selling-car">
                             <div className="selling-carpart">
@@ -33,11 +33,11 @@ export default function SellingCar() {
                                         <div className="inner">
                                             <div className="group-title">
                                                 <div className="title">
-                                                    Car Suspension Disc
+                                                    Ford Explorer XLT
                                                 </div>
                                             </div>
                                             <div className="description">
-                                                <p>Lorem ipsum dolor sit amet ectetur adipisicing elit</p>
+                                                <p>Family SUV with comfort, space, and daily driving confidence.</p>
                                             </div>
                                         </div>
                                     </Link>
@@ -47,11 +47,11 @@ export default function SellingCar() {
                                         <div className="inner">
                                             <div className="group-title">
                                                 <div className="title">
-                                                    Car Suspension Disc
+                                                    Chevrolet Suburban
                                                 </div>
                                             </div>
                                             <div className="description">
-                                                <p>Lorem ipsum dolor sit amet ectetur adipisicing elit</p>
+                                                <p>Spacious SUV option with same-day inquiry support.</p>
                                             </div>
                                         </div>
                                     </Link>
@@ -61,11 +61,11 @@ export default function SellingCar() {
                                         <div className="inner">
                                             <div className="group-title">
                                                 <div className="title">
-                                                    Car Suspension Disc
+                                                    BMW X5 xDrive
                                                 </div>
                                             </div>
                                             <div className="description">
-                                                <p>Lorem ipsum dolor sit amet ectetur adipisicing elit</p>
+                                                <p>Premium SUV available with nationwide delivery options.</p>
                                             </div>
                                         </div>
                                     </Link>
@@ -75,11 +75,11 @@ export default function SellingCar() {
                                         <div className="inner">
                                             <div className="group-title">
                                                 <div className="title">
-                                                    Car Suspension Disc
+                                                    Hyundai Santa Fe
                                                 </div>
                                             </div>
                                             <div className="description">
-                                                <p>Lorem ipsum dolor sit amet ectetur adipisicing elit</p>
+                                                <p>Affordable SUV choice with quick buyer support.</p>
                                             </div>
                                         </div>
                                     </Link>
@@ -88,9 +88,9 @@ export default function SellingCar() {
                             <div className="selling-content">
                                 <span className="sub-selling">New arrival</span>
                                 <h4 className="title-selling">Ford Explorer XLT-2018</h4>
-                                <p className="des">For 15 years, we raising the standard of used car ret
-                                    with one of the most innovative and reliable used ve
-                                    programmes ever created. A comprehensive
+                                <p className="des">Serving buyers across the USA with affordable vehicles,
+                                    fast responses, and nationwide delivery options.
+                                    Ask about this SUV today.
                                 </p>
                                 <div className="price-selling">
                                     <span className="price-sale">$114700</span>

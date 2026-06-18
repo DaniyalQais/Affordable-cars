@@ -8,14 +8,11 @@ export default function FeatureV2Car() {
                     <div className="feature-v2-car-wrap">
                         <div className="header-section">
                             <div className="heading-section">
-                                <span className="sub-title mb-6 wow fadeInUp">20% OFF FOR ONLINE BOOKing</span>
-                                <h2 className="title wow fadeInUp">Our Extra Features</h2>
+                                <span className="sub-title mb-6 wow fadeInUp">Buyer-first support</span>
+                                <h2 className="title wow fadeInUp">Why Buyers Choose Us</h2>
                             </div>
-                            <p className="description wow fadeInUp">For 15 years, we raising the standard of used car
-                                retailing with one
-                                of the
-                                most innovative and reliable used vehicle programmes ever created.
-                                A comprehensive range of
+                            <p className="description wow fadeInUp">Get real vehicle details, quick responses,
+                                flexible buying support, and delivery options designed around the car you want.
                             </p>
                         </div>
                         <div className="icon-box-feature">
@@ -25,7 +22,7 @@ export default function FeatureV2Car() {
                                 </div>
                                 <div className="content">
                                     <div className="title">Trusted Car Dealership</div>
-                                    <p className="description">Lorem ipsum dolor sit amet, consect adipiscing elit.</p>
+                                    <p className="description">Clear details and support for the car you choose.</p>
                                 </div>
                             </div>
                             <div className="icon-box-item">
@@ -33,8 +30,8 @@ export default function FeatureV2Car() {
                                     <img src="/assets/images/icon-box/icon2.png" alt="" />
                                 </div>
                                 <div className="content">
-                                    <div className="title">Special Gift Offer</div>
-                                    <p className="description">Lorem ipsum dolor sit amet, consect adipiscing elit.</p>
+                                    <div className="title">Same-Day Response</div>
+                                    <p className="description">Message us and hear back quickly about availability.</p>
                                 </div>
                             </div>
                             <div className="icon-box-item">
@@ -43,7 +40,7 @@ export default function FeatureV2Car() {
                                 </div>
                                 <div className="content">
                                     <div className="title">Flexible Pricing</div>
-                                    <p className="description">Lorem ipsum dolor sit amet, consect adipiscing elit.</p>
+                                    <p className="description">Affordable options with financing guidance.</p>
                                 </div>
                             </div>
                             <div className="icon-box-item">
@@ -51,8 +48,8 @@ export default function FeatureV2Car() {
                                     <img src="/assets/images/icon-box/icon4.png" alt="" />
                                 </div>
                                 <div className="content">
-                                    <div className="title">Expert Car Service</div>
-                                    <p className="description">Lorem ipsum dolor sit amet, consect adipiscing elit.</p>
+                                    <div className="title">Delivery Support</div>
+                                    <p className="description">Nationwide delivery available for qualified buyers.</p>
                                 </div>
                             </div>
                         </div>

@@ -11,21 +11,21 @@ export default function SpecialCar() {
                         <div className="special-step">
                             <div className="special-step-item">
                                 <span className="number">1</span>
-                                <h4 className="title">Register for free</h4>
-                                <p className="description">For 15 years, we raising the standard of used car
-                                    most innovative and reliable used vehicle program</p>
+                                <h4 className="title">Choose your car</h4>
+                                <p className="description">Serving buyers across the USA with affordable cars,
+                                    fast replies, and clear vehicle details.</p>
                             </div>
                             <div className="special-step-item">
                                 <span className="number">2</span>
-                                <h4 className="title">Submit your cars</h4>
-                                <p className="description">For 15 years, we raising the standard of used car
-                                    most innovative and reliable used vehicle program</p>
+                                <h4 className="title">Send an inquiry</h4>
+                                <p className="description">Tell us which vehicle you like and our team will follow up
+                                    with availability, pricing, and next steps.</p>
                             </div>
                             <div className="special-step-item">
                                 <span className="number">3</span>
-                                <h4 className="title">Get Connected</h4>
-                                <p className="description">For 15 years, we raising the standard of used car
-                                    most innovative and reliable used vehicle program</p>
+                                <h4 className="title">Get on the road</h4>
+                                <p className="description">Same-day approvals and nationwide delivery options help
+                                    qualified buyers move quickly.</p>
                             </div>
                         </div>
                         <div className="special-car-counter">
@@ -41,9 +41,9 @@ export default function SpecialCar() {
                                             <path d="M64.948 52.939C64.8285 52.5713 64.5146 52.3006 64.1331 52.2366L58.4432 51.2816L55.7766 46.1653C55.598 45.8225 55.2435 45.6074 54.8568 45.6074C54.4701 45.6074 54.1157 45.8225 53.937 46.1653L51.2705 51.2816L45.5805 52.2366C45.1992 52.3006 44.8851 52.5713 44.7656 52.939C44.6461 53.3066 44.7412 53.7103 45.0119 53.9861L49.054 58.1032L48.2039 63.8098C48.1469 64.1923 48.3073 64.5746 48.6201 64.8018C48.9327 65.0291 49.3461 65.0634 49.6921 64.8911L54.8567 62.3192L60.0213 64.8911C60.1676 64.9639 60.3259 64.9998 60.4835 64.9998C60.6988 64.9998 60.9127 64.9329 61.0932 64.8016C61.4061 64.5744 61.5665 64.1922 61.5095 63.8096L60.6594 58.103L64.7014 53.9859C64.9725 53.7103 65.0675 53.3066 64.948 52.939ZM58.8175 57.0185C58.5898 57.2506 58.4838 57.5761 58.5318 57.898L59.1648 62.1469L55.3193 60.2319C55.1737 60.1594 55.0153 60.1232 54.857 60.1232C54.6985 60.1232 54.5401 60.1594 54.3946 60.2319L50.5493 62.1469L51.1822 57.898C51.2302 57.5761 51.1244 57.2504 50.8965 57.0185L47.8869 53.953L52.1235 53.2419C52.4443 53.1879 52.7214 52.9867 52.8717 52.6982L54.8571 48.8887L56.8425 52.6982C56.9928 52.9867 57.2698 53.1879 57.5907 53.2419L61.8273 53.953L58.8175 57.0185Z" fill="#D01818" />
                                             <path d="M32.5005 14.9375C33.8601 14.9375 35.1536 14.3467 36.0492 13.3165C36.425 12.8842 36.3793 12.229 35.947 11.8531C35.5146 11.4773 34.8595 11.523 34.4837 11.9554C33.9824 12.5322 33.2593 12.863 32.5005 12.863C31.7417 12.863 31.0188 12.5322 30.5173 11.9554C30.1414 11.523 29.4863 11.4774 29.054 11.8531C28.6217 12.229 28.5759 12.8842 28.9518 13.3165C29.8474 14.3465 31.1409 14.9375 32.5005 14.9375Z" fill="#D01818" />
                                         </svg>
-                                        <div className="number-counter number" data-to={200} data-speed={2000} data-waypoint-active="yes">
-                                            <CounterUp count={200} /><span>k+</span></div>
-                                        <p>Registerd Users</p>
+                                        <div className="number-counter number" data-to={500} data-speed={2000} data-waypoint-active="yes">
+                                            <CounterUp count={500} /><span>+</span></div>
+                                        <p>Happy Buyers</p>
                                     </div>
                                     <div className="widget-counter counter-v3">
                                         <svg width={97} height={49} viewBox="0 0 97 49" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -52,9 +52,9 @@ export default function SpecialCar() {
                                             <path d="M22.7924 37.0737C22.5118 37.3566 22.3212 37.7163 22.2446 38.1075C22.1681 38.4986 22.209 38.9036 22.3623 39.2715C22.5156 39.6394 22.7743 39.9537 23.1059 40.1748C23.4375 40.3959 23.8271 40.5138 24.2257 40.5138C24.6242 40.5138 25.0138 40.3959 25.3454 40.1748C25.677 39.9537 25.9358 39.6394 26.0891 39.2715C26.2423 38.9036 26.2833 38.4986 26.2067 38.1075C26.1302 37.7163 25.9396 37.3566 25.6589 37.0737C25.4712 36.8845 25.248 36.7343 25.002 36.6318C24.756 36.5293 24.4922 36.4766 24.2257 36.4766C23.9592 36.4766 23.6953 36.5293 23.4493 36.6318C23.2034 36.7343 22.9801 36.8845 22.7924 37.0737Z" fill="#D01818" />
                                             <path d="M54.5051 22.3574H50.4679C49.9325 22.3574 49.419 22.5701 49.0405 22.9487C48.6619 23.3272 48.4492 23.8407 48.4492 24.3761C48.4492 24.9114 48.6619 25.4249 49.0405 25.8035C49.419 26.182 49.9325 26.3947 50.4679 26.3947H54.5051C55.0405 26.3947 55.554 26.182 55.9325 25.8035C56.3111 25.4249 56.5238 24.9114 56.5238 24.3761C56.5238 23.8407 56.3111 23.3272 55.9325 22.9487C55.554 22.5701 55.0405 22.3574 54.5051 22.3574Z" fill="#D01818" />
                                         </svg>
-                                        <div className="number-counter number" data-to={14} data-speed={2000} data-waypoint-active="yes">
-                                            <CounterUp count={14} /><span>k+</span></div>
-                                        <p>Total Car sold</p>
+                                        <div className="number-counter number" data-to={200} data-speed={2000} data-waypoint-active="yes">
+                                            <CounterUp count={200} /><span>+</span></div>
+                                        <p>Cars Sold</p>
                                     </div>
                                 </div>
                                 <div className="btn-main ">

@@ -4,16 +4,6 @@ export default function Footer1() {
         <>
             <footer id="footer" className="clearfix bg-footer2 pd-t81 re-hi">
                 <div className="themesflat-container">
-                    <div className="row footer-top">
-                        <div className="col-lg-6 col-md-12 col-12 pd-r80 ">
-                            <h2 className="title-footer-top">Do you Have <span className="red-title">something</span> to sell
-                                through us?</h2>
-                            {/* <img className="icon-ft" src="/assets/images/page/shape-footer.png" alt="" /> */}
-                        </div>
-                        <div className="col-lg-6 col-md-12 col-12 t-al-right pt-20">
-                            <Link href="/#" className="btn-sell">Sell your car today</Link>
-                        </div>
-                    </div>
                     <div className="row footer-main">
                         <div className="col-lg-3 col-md-6 col-12">
                             <div className="widget widget-info">
@@ -22,7 +12,7 @@ export default function Footer1() {
                                 <ul>
                                     <li>
                                         <i className="icon-Vector1" />
-                                        <p>123 Main Street, Dallas, TX, USA</p>
+                                        <p>Serving All of USA</p>
                                     </li>
                                     <li>
                                         <i className="icon-Group-1" />
@@ -35,12 +25,12 @@ export default function Footer1() {
                             <div className="widget widget-menu pl-60">
                                 <h3>Quick Links</h3>
                                 <ul className="box-menu">
-                                    <li><Link href="/#">Dealer Locator</Link></li>
-                                    <li><Link href="/#">Service Locator</Link></li>
-                                    <li><Link href="/#">Pre-owned</Link></li>
-                                    <li><Link href="/#">Accessori Originali</Link></li>
-                                    <li><Link href="/#">Spare Parts</Link></li>
-                                    <li><Link href="/#"> Services</Link></li>
+                                    <li><Link href="/car-list">Browse Inventory</Link></li>
+                                    <li><Link href="/#inquiry-form">Send Inquiry</Link></li>
+                                    <li><Link href="/listing-details">Featured Deals</Link></li>
+                                    <li><Link href="/contact-us">Contact Us</Link></li>
+                                    <li><Link href="/#">Financing Help</Link></li>
+                                    <li><Link href="/#">Nationwide Delivery</Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,12 +38,12 @@ export default function Footer1() {
                             <div className="widget widget-menu pl-30">
                                 <h3>Research</h3>
                                 <ul className="box-menu">
-                                    <li><Link href="/#">Build &amp; Price A Vehicle</Link></li>
-                                    <li><Link href="/#">Compare Models</Link></li>
-                                    <li><Link href="/#"> Warranty</Link></li>
-                                    <li><Link href="/#">Download a Brochure</Link></li>
-                                    <li><Link href="/#">Sign-Up for Updates</Link></li>
-                                    <li><Link href="/#">Mail Me a Brochure</Link></li>
+                                    <li><Link href="/#">Same-Day Approvals</Link></li>
+                                    <li><Link href="/#">Affordable Cars</Link></li>
+                                    <li><Link href="/#">Car Buying Tips</Link></li>
+                                    <li><Link href="/#">Trade-In Questions</Link></li>
+                                    <li><Link href="/#">Delivery Options</Link></li>
+                                    <li><Link href="/#">Payment Support</Link></li>
                                 </ul>
                             </div>
                         </div>

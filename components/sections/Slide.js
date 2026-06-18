@@ -48,7 +48,7 @@ export default function Slide() {
                             </div>
                             <div className="box">
                                 <span>+1 825-852-0783</span>
-                                <span>Dallas, TX, USA</span>
+                                <span>Serving All of USA</span>
                             </div>
                         </div>
                     </div>

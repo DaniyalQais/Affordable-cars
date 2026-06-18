@@ -17,14 +17,13 @@ export default function CounterCar() {
                     <div className="counter-car">
                         <div className="counter-car-header-wrap">
                             <div className="counter-car-header">
-                                <span className="sub-heading wow fadeInUp">Find your car by car brand</span>
-                                <h2 className="title wow fadeInUp">Leading the best Car Delers In USA</h2>
+                                <span className="sub-heading wow fadeInUp">Serving buyers across the USA</span>
+                                <h2 className="title wow fadeInUp">Trusted Car Deals With Nationwide Support</h2>
                             </div>
                             <div className="counter-car-content">
-                                <p className="description wow fadeInUp">There are many variations of simply free text
-                                    passages of Lorem
-                                    available but the majority have suffered alteration in some form
-                                    by injected hum randomised words which don't slightly.
+                                <p className="description wow fadeInUp">Browse affordable vehicles, ask about the exact car
+                                    you want, and get a same-day response from our team.
+                                    Nationwide delivery is available for qualified buyers.
                                 </p>
                             </div>
                         </div>
@@ -37,10 +36,10 @@ export default function CounterCar() {
                                     <path d="M45.0641 37H30.2379C29.3938 37 28.7031 37.6923 28.7031 38.5385C28.7031 39.3846 29.3938 40.0769 30.2379 40.0769H45.0641C45.9083 40.0769 46.5989 39.3846 46.5989 38.5385C46.5989 37.6923 45.9083 37 45.0641 37Z" fill="#D01818" />
                                     <path d="M45.0641 32.2305H30.2379C29.3938 32.2305 28.7031 32.9228 28.7031 33.7689C28.7031 34.6151 29.3938 35.3074 30.2379 35.3074H45.0641C45.9083 35.3074 46.5989 34.6151 46.5989 33.7689C46.5989 32.9228 45.9083 32.2305 45.0641 32.2305Z" fill="#D01818" />
                                 </svg>
-                                <div className="number-counter number" data-to={1200} data-speed={2000} data-waypoint-active="yes">
-                                    <CounterUp count={1200} />
+                                <div className="number-counter number" data-to={200} data-speed={2000} data-waypoint-active="yes">
+                                    <CounterUp count={200} /><span>+</span>
                                 </div>
-                                <p>Vehicle in stock Cars</p>
+                                <p>Cars Sold</p>
                             </div>
                             <div className="widget-counter t-al-center counter-v1">
                                 <svg width={93} height={74} viewBox="0 0 93 74" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -51,9 +50,9 @@ export default function CounterCar() {
                                     <path d="M71.5035 27.7388L73.1254 34.724L73.3491 35.5313L72.0852 36.4619L65.1166 32.5937L58.9646 36.2937L58.2711 36.731L57.0296 35.8228L58.5508 27.9855L56.9289 26.584L58.3942 24.891L60.553 26.7634L60.8774 27.1446V27.5931L59.8259 33.1655L64.3672 30.4185L64.6021 30.1943L65.5529 30.1719L65.7766 30.3961L70.4185 32.9749L69.1658 27.5258V26.8643L73.5169 22.8055L68.1926 22.3346L67.6781 22.3234L67.2083 21.8525L64.8258 16.7173L62.6782 21.7964L62.3315 22.4579H61.7051L59.0094 22.7943L58.7297 20.5631L60.8885 20.3052L63.7296 13.5779L64.1099 12.8604L65.6535 12.9837L65.8661 13.6452L68.8861 20.1594L76.0001 20.7761L76.8837 20.821L77.3535 22.4579L76.7383 22.8616L71.5035 27.7388Z" fill="#D01818" />
                                     <path d="M34.7377 20.3053L34.5364 22.5365L32.3776 22.3347L31.8743 22.3122L31.4045 21.8413L29.022 16.7062L26.975 21.5386L26.9527 22.4468H25.9012L20.5658 23.1083L24.7156 26.7186L25.0847 27.111V27.5932L24.0221 33.1544L28.5746 30.4186L28.8095 30.1832L29.7938 30.1944L29.9951 30.4074L34.6147 32.975L33.3507 27.5259L33.3619 26.8644L36.2254 24.1847L37.7578 25.8216L35.7109 27.7389L37.3216 34.7241L37.5453 35.4753L36.3261 36.4844L29.3128 32.5938L23.1496 36.305L22.4561 36.731L21.2369 35.8116L22.7581 27.9856L17.3779 23.3101C17.0088 23.0186 16.8522 22.5253 16.9753 22.0768L17.2325 21.2807L25.0847 20.3165L27.9482 13.5668L28.2837 12.9501L29.6148 12.9053L29.9616 13.4547L33.0935 20.1595L34.7377 20.3053Z" fill="#D01818" />
                                 </svg>
-                                <div className="number-counter number" data-to={120} data-speed={2000} data-waypoint-active="yes">
-                                    <CounterUp count={120} /><span>k</span></div>
-                                <p>Satisfied customers</p>
+                                <div className="number-counter number" data-to={500} data-speed={2000} data-waypoint-active="yes">
+                                    <CounterUp count={500} /><span>+</span></div>
+                                <p>Happy Buyers</p>
                             </div>
                             <div className="widget-counter t-al-center counter-v1">
                                 <svg width={89} height={64} viewBox="0 0 89 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -63,10 +62,10 @@ export default function CounterCar() {
                                     <path d="M41.1121 56.5H36.124C35.4354 56.5 34.877 57.0596 34.877 57.75C34.877 58.4404 35.4354 59 36.124 59H41.1121C41.8007 59 42.3591 58.4404 42.3591 57.75C42.3591 57.0596 41.8007 56.5 41.1121 56.5Z" fill="#D01818" />
                                     <path d="M60.3184 60.2498H61.0136C60.6594 60.1794 60.4212 60.1724 60.3184 60.2498Z" fill="#D01818" />
                                 </svg>
-                                <div className="number-counter number" data-to={1200} data-speed={2000} data-waypoint-active="yes">
-                                    <CounterUp count={1200} />
+                                <div className="number-counter number" data-to={100} data-speed={2000} data-waypoint-active="yes">
+                                    <CounterUp count={100} /><span>+</span>
                                 </div>
-                                <p>Awward achievment</p>
+                                <p>Same-Day Approvals</p>
                             </div>
                             <div className="widget-counter t-al-center counter-v1">
                                 <svg width={66} height={65} viewBox="0 0 66 65" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -88,9 +87,9 @@ export default function CounterCar() {
                                     <path d="M20.1728 48.3578C16.1526 48.2883 12.1987 47.3193 8.59997 45.5218C8.47893 45.4571 8.37179 45.3692 8.28467 45.263C8.19754 45.1568 8.13213 45.0345 8.09217 44.9029C8.05222 44.7714 8.0385 44.6333 8.0518 44.4964C8.0651 44.3596 8.10515 44.2267 8.16968 44.1054C8.23421 43.9841 8.32195 43.8767 8.42789 43.7893C8.53382 43.702 8.65588 43.6364 8.78709 43.5964C8.91831 43.5563 9.05611 43.5426 9.19262 43.5559C9.32914 43.5692 9.4617 43.6094 9.58274 43.6741C9.68717 43.7317 20.4945 49.3617 28.9749 43.7254C29.2057 43.5718 29.488 43.5165 29.7596 43.5716C30.0311 43.6266 30.2697 43.7876 30.4229 44.019C30.5761 44.2504 30.6313 44.5334 30.5763 44.8056C30.5214 45.0778 30.3608 45.317 30.13 45.4705C27.1717 47.4052 23.7046 48.4105 20.1728 48.3578Z" fill="#D01818" />
                                     <path d="M47.233 48.6904C43.1576 48.5961 39.1678 47.4997 35.6142 45.4975C35.3882 45.3496 35.228 45.1197 35.1674 44.8561C35.1067 44.5924 35.1502 44.3155 35.2888 44.0833C35.4273 43.8511 35.6502 43.6817 35.9107 43.6106C36.1711 43.5396 36.4489 43.5723 36.6858 43.7021C36.7902 43.7659 47.5474 50.0493 55.9871 43.7607C56.0971 43.6786 56.2222 43.6191 56.3553 43.5855C56.4883 43.5519 56.6266 43.5448 56.7623 43.5648C56.898 43.5848 57.0285 43.6314 57.1463 43.7019C57.264 43.7724 57.3668 43.8655 57.4487 43.9758C57.5306 44.0861 57.59 44.2116 57.6235 44.3449C57.657 44.4782 57.664 44.6169 57.6441 44.7529C57.6241 44.889 57.5777 45.0198 57.5073 45.1378C57.437 45.2558 57.3441 45.3588 57.2341 45.4409C54.3456 47.5931 50.8318 48.7348 47.233 48.6904Z" fill="#D01818" />
                                 </svg>
-                                <div className="number-counter number" data-to={60} data-speed={2000} data-waypoint-active="yes">
-                                    <CounterUp count={60} /><span>+</span></div>
-                                <p>Total Showroom</p>
+                                <div className="number-counter number" data-to={50} data-speed={2000} data-waypoint-active="yes">
+                                    <CounterUp count={50} /><span>+</span></div>
+                                <p>States Served</p>
                             </div>
                         </div>
                     </div>

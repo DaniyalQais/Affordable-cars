@@ -3,9 +3,6 @@
 import { useEffect, useState } from "react"
 import BackToTop from '../elements/BackToTop'
 import HoverListing from "../elements/HoverListing"
-import ModalToggle from "../elements/ModalToggle"
-import ModalToggle2 from "../elements/ModalToggle2"
-import ModalToggle3 from "../elements/ModalToggle3"
 import TabList from "../elements/TabList"
 import Breadcrumb from './Breadcrumb'
 import Footer1 from './footer/Footer1'
@@ -71,9 +68,6 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
                 </div>
             </div>
             <BackToTop />
-            <ModalToggle handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
-            <ModalToggle2  handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
-            <ModalToggle3  handleToggle1={handleToggle1} isToggled1={isToggled1} handleToggle2={handleToggle2} isToggled2={isToggled2} handleToggle3={handleToggle3} isToggled3={isToggled3} />
         </>
     )
 }
